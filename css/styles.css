@@ -1,0 +1,10 @@
+em.flashy {
+  color: red;
+  font-style: italic;
+}
+
+strong.best {
+  color: purple;
+  font-size: 20pt;
+  border: red;
+}
